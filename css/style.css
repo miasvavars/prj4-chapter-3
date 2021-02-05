@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#title{
+	font-family: 'Audiowide', cursive;
+	color: paleturquoise;
+}
+.dummytext{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
+	background-color: bisque;
+}
+.introduction{
+	border: ridge; 
+	border-color: plum; 
+	padding: one_size fits all; padding: 10px; 
+	background-color: blanchedalmond; 
+}
