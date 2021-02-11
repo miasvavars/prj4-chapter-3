@@ -1,4 +1,8 @@
 @charset "UTF-8";
+* {margin: 0; padding: 0; border: 0; font-size: 100%; }
+#my-id {
+	background-image: url("../images/backgroundphoto2.jpg"); 
+}
 #title{
 	font-family: 'Audiowide', cursive;
 	color: paleturquoise;
@@ -12,4 +16,8 @@
 	border-color: plum; 
 	padding: 20px; 
 	background-color: blanchedalmond; 
+}
+.margin {
+	padding-left: 10px;
+	padding-right: 10px;
 }
