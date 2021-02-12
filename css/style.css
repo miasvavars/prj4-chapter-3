@@ -1,11 +1,16 @@
 @charset "UTF-8";
 * {margin: 0; padding: 0; border: 0; font-size: 100%; }
-#my-id {
+h1 {
 	background-image: url("../images/backgroundphoto2.jpg"); 
+	padding: 20px;
+	background-repeat: repeat;
+	background-size: 20%;
 }
 #title{
 	font-family: 'Audiowide', cursive;
-	color: paleturquoise;
+	font-size: 45px;
+	color:aqua;
+	text-align: center;
 }
 .dummytext{
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
@@ -15,7 +20,8 @@
 	border: ridge; 
 	border-color: plum; 
 	padding: 20px; 
-	background-color: blanchedalmond; 
+	background-color: blanchedalmond;
+	font-family: 'Permanent Marker', cursive;
 }
 .margin {
 	padding-left: 10px;
